@@ -55,7 +55,7 @@ Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer pass
 ---
 
 ## 📫 Contact Me  
-- 📧 Email: muhamadfahrisalam74@gmail.com  
+- 📧 Email: kentprayoga07@gmail.com  
 - 💻 GitHub: [Kentprayoga](https://github.com/Kentprayoga)  
 - 🌐 Portfolio: https://yourwebsite.com  
 - 🔗 LinkedIn: https://linkedin.com/in/KentFahmiPrayoga  
