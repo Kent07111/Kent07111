@@ -72,7 +72,7 @@ Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer pass
 ## 📫 Contact Me
 
 * 📧 Email: [kentprayoga07@gmail.com](mailto:kentprayoga07@gmail.com)
-* 💻 GitHub: [Kentprayoga](https://github.com/Kentprayoga)
+* 💻 GitHub: [Kent07111](https://github.com/Kent07111)
 * 🌐 Portfolio: https://yourwebsite.com
 * 🔗 LinkedIn: https://linkedin.com/in/KentFahmiPrayoga
 
