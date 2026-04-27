@@ -12,6 +12,11 @@ Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer pass
 
 ---
 
+
+<div align="center">
+  <img height="150" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  />
+</div>
+
 ## 🚀 What I Do
 
 * 🔭 Working on Machine Learning & Computer Vision projects
