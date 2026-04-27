@@ -7,7 +7,7 @@ Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer pass
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kentprayoga/Kentprayoga/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Kent07111/Kent07111/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -81,12 +81,12 @@ Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer pass
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kentprayoga&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kentprayoga&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kent07111&theme=tokyonight&hide_border=true&show_icons=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kent07111&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kentprayoga&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kent07111&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
 
 ---
