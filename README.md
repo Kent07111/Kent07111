@@ -3,16 +3,10 @@
 Hi, I'm **Kent Fahmi Prayoga** — a tech enthusiast and aspiring developer passionate about building software, exploring AI, and designing mobile-first experiences.
 
 ---
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kent07111/Kent07111/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
 ---
-
-
 <div align="center">
   <img height="150" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  />
 </div>
